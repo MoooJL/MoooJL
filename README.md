@@ -1,71 +1,19 @@
-# Angel Jaime
 
-<h2 align="center">About me</h2>
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
+<img align="right" width="250px" src="https://raw.githubusercontent.com/yaronzz/yaronzz/master/res/1.gif" />
 
-<h2 align="center">You can reach me at :alien:</h2>
+𝗜'𝗺 [X-Luminous](https://github.com/yaronzz)！𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
+
+[![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaronhuang@foxmail.com)
+
+### 🍜 About
+
+- 👨‍💻 BLOG:  https://www.cnblogs.com/mooojl/
+- 📫 EMAIL: a1205594294@gmail.com
+- 🔭 I’m currently a SE student at Shijiazhuang Tiedao University.
+- 📫 How to reach me: [Gmail](a1205594294@gmail.com)
+
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/MoooJL">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="MoooJL :: StackShare" />
-  </a>
-</p>
-
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{MoooJL}/count.svg" alt="MoooJL :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoooJL&langs_count=10&theme=tokyonight&layout=compact" alt="MoooJL :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MoooJL&show_icons=true&theme=synthwave" alt="MoooJL :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-
----
-
-⭐️ From [@MoooJL](https://github.com/MoooJL)
-
+  <a href="https://open.spotify.com/user/9jkfb4jstu243z6qyvlz7ecu5" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
